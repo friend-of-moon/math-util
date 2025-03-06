@@ -7,5 +7,8 @@ framework
 * A CI (Continuous Integration) script to check source code quality and to deploy the app automatically
 * ...
 
+## Screen-shots
+![Source code with TDD](https://github.com/friend-of-moon/math-util/blob/main/screen-shots/Source-code-with-TDD-DDT.png)
+
 ### Connect me via: phucan0147@gmail.com
 #### &#169; 2025 friend-of-moon
